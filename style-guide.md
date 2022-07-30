@@ -28,8 +28,17 @@ The designs were created to the following widths:
 
 ### Font
 
+<link rel="Montserrat" href="https://fonts.google.com/specimen/Montserrat">
+
 - Family: [Montserrat](https://fonts.google.com/specimen/Montserrat)
 - Weights: 500, 700
 
+<link rel="Frances" href="https://fonts.google.com/specimen/Fraunces">
 - Family: [Fraunces](https://fonts.google.com/specimen/Fraunces)
 - Weights: 700
+
+
+  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+  <style>
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
