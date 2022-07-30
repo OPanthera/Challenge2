@@ -1,0 +1,22 @@
+* {
+    background-color: hsl(30, 38%, 92%);
+    display: flex;
+    flex-direction: column;
+    
+}
+
+body {
+    font-family:'Montserrat';
+}
+
+.container {
+flex-direction: row;
+}
+
+.card {
+   
+}
+
+.button {
+    background-color: green;
+}
